@@ -18,3 +18,15 @@ pulls from. **Everything here is public**, so only finished, approved assets go 
 ## Layout
 Not settled yet. When the first assets land, record the folder and naming convention here
 (for example `YYYY-MM-DD/<slug>.mp4` + `<slug>.cover.jpg`) so every later release follows it.
+
+## Jerk comparison (owner's standing rule)
+Whenever the owner has to choose between options, give a **Jerk comparison** before asking, in
+one table:
+- a **star rating (★1-5) per criterion**, with the criteria chosen for that decision (for example
+  cost, effort, risk, fit with the gaseraverse, speed, quality, maintenance, IP or legal safety);
+- **pros** and **cons** for each option;
+- an **overall usage-experience rating** (★1-5);
+- a **final grade** per option and a one-line recommendation under the table.
+
+Grade it like an audit: say where a rating rests on judgement rather than a source, and write
+"unknown" rather than guess. "Jerk comparison" (or "jer comparison") always means this format.
